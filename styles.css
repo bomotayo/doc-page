@@ -1,0 +1,38 @@
+#main-doc{
+  width: 70%;
+  margin-left: 25%;
+}
+code{
+  background-color: rgb(194, 189, 189);
+  padding: 5px;
+  font-size: 15px;
+}
+header{
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 30px;
+}
+p, li{
+  font-size: 20px;
+}
+li{
+  margin-top: 20px;
+}
+#navbar{
+  width: 24%;
+  border-style: solid;
+  border-color: black;
+  border-width: 0px 1px 0px 0px;
+  position: fixed;
+  top: 0.5%;
+}
+.nav-link{
+  display: block;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px 0px 1px 0px;
+  text-decoration: none;
+  color: black;
+  font-size: 23px;
+  padding: 15px;
+}
